@@ -4,7 +4,7 @@
     {
         public static void Main(string[]args)
         {
-            Console.WriteLine("Find Maximum of given 3");
+            Console.WriteLine("Find Maximum of given 3 Integers");
             
             Console.WriteLine("enter first value");
             int firstvalue = Convert.ToInt32(Console.ReadLine());
